@@ -1,5 +1,7 @@
 # Redis开发运维实践指南
 
+> 本开源书 forked from [Redis开发运维实践指南](https://github.com/gnuhpc/All-About-Redis)，作者为 [gnuhpc](https://github.com/gnuhpc)，欢迎大家 star 原作者的 [repo](https://github.com/gnuhpc/All-About-Redis)，以便获得最新更新，谢谢！
+
 本手册是我在一家中国大陆的中型商业银行做大数据系统工程师中进行的总结归纳，包含开发和运维的各方面的使用、应用场景和最佳实践，以及各个高可用架构的搭建和测试。
 
 下载和线上阅读最新版请访问：[https://www.gitbook.com/book/gnuhpc/redis-all-about/details](https://www.gitbook.com/book/gnuhpc/redis-all-about/details)
