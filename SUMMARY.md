@@ -72,7 +72,6 @@
 	* [事务](IndependentFunc/transection.md) 
 	* [流水线](IndependentFunc/pipeline.md)
 	* [发布订阅](IndependentFunc/pubsub.md)  
-
 * [开发设计规范](CodeDesignRule/README.md)
 	* [Key设计](CodeDesignRule/keydesign.md)
 	* [超时设置](CodeDesignRule/expire.md)  
